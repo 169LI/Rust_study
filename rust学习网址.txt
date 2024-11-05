@@ -18,3 +18,7 @@ https://github.com/rosedblabs/rust-learning <自己找的>
 
 rustup doc 命令下载说明文档
 
+项目学习：
+https://github.com/alacritty/alacritty
+https://github.com/rustcc/awesome-rust?tab=readme-ov-file
+https://github.com/rustdesk/rustdesk
