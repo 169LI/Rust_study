@@ -22,3 +22,10 @@ rustup doc 命令下载说明文档
 https://github.com/alacritty/alacritty
 https://github.com/rustcc/awesome-rust?tab=readme-ov-file
 https://github.com/rustdesk/rustdesk
+
+
+Rust Cookbook：https://rust-lang-nursery.github.io/rust-cookbook/
+
+Rust 爬虫：https://zhuanlan.zhihu.com/p/516033159
+
+[Rust] Scraper 爬虫简单使用：https://zhuanlan.zhihu.com/p/595712847
