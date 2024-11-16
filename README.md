@@ -18,7 +18,18 @@ https://github.com/rosedblabs/rust-learning <自己找的>
 
 rustup doc 命令下载说明文档
 
+部分模块文档说明：
+https://docs.rs/nom/5.0.0/nom/macro.named.html   (nom模块)
+https://serde.rs/custom-serialization.html     (序列化)
+
+
 项目学习：
 https://github.com/alacritty/alacritty
 https://github.com/rustcc/awesome-rust?tab=readme-ov-file
 https://github.com/rustdesk/rustdesk
+
+https://rust-lang-nursery.github.io/rust-cookbook/
+
+ 爬虫：https://zhuanlan.zhihu.com/p/516033159
+
+ 爬虫简单使用：https://zhuanlan.zhihu.com/p/595712847
