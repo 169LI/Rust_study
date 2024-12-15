@@ -20,9 +20,17 @@ rustup doc 命令下载说明文档
 
 部分模块文档说明：
 
-https://docs.rs/nom/5.0.0/nom/macro.named.html   (nom模块)
+<https://docs.rs/nom/5.0.0/nom/macro.named.html>    <解析器组合库 nom模块>
 
-https://serde.rs/custom-serialization.html     (序列化)
+<https://crates.io/crates/nom>                       <nom模块>
+
+<https://serde.rs/custom-serialization.html>        <序列化模块>
+
+<https://docs.rs/mio/1.0.2/mio/guide/index.html>   <I/O库 mio模块>
+
+<https://docs.rs/tokio/latest/tokio/>              <tokio模块>
+
+<https://tokio.rs/tokio/tutorial>                  <异步编程Tokio>
 
 
 项目学习：
