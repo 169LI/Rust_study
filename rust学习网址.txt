@@ -26,6 +26,8 @@ https://serde.rs/custom-serialization.html                  <序列化模块>
 https://docs.rs/mio/1.0.2/mio/guide/index.html      <I/O库 mio模块>
 https://docs.rs/tokio/latest/tokio/                               <tokio模块>
 https://tokio.rs/tokio/tutorial                                       <异步编程Tokio>
+https://docs.rs/pnet/latest/pnet/                                <网络编程pnet库>
+https://github.com/libpnet/libpnet/tree/main/examples      <libpnet的使用>
 
 项目学习：
 https://github.com/alacritty/alacritty

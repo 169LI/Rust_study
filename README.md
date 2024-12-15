@@ -32,6 +32,10 @@ rustup doc 命令下载说明文档
 
 <https://tokio.rs/tokio/tutorial>                  <异步编程Tokio>
 
+<https://docs.rs/pnet/latest/pnet/>                <网络编程pnet库>
+
+<https://github.com/libpnet/libpnet/tree/main/examples>      <libpnet的使用>
+
 
 项目学习：
 
