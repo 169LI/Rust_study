@@ -1,3 +1,7 @@
+# 网址汇总
+
+## 学习资源
+
 https://course.rs/first-try/intro.html  <Rust语言圣经--中文>
 
 https://practice-zh.course.rs/why-exercise.html <Rust语言圣经--习题>
@@ -12,13 +16,22 @@ https://www.rust-lang.org/  <官网--英文>
 
 https://www.rust-lang.org/zh-CN/    <官网--中文>
 
-http://www.rustbbs.net/   <Rust论坛>
+## 社区论坛
 
-https://github.com/rosedblabs/rust-learning <自己找的>
+https://users.rust-lang.org/c/help/5   <rust_user 英文社区>
 
-rustup doc 命令下载说明文档
+https://stackoverflow.com/questions/tagged/rust  <stackoverflow>
 
-部分模块文档说明：
+https://rustcc.cn/ <rust_cc 中文社区>
+
+## 其他学习学习资料的汇总
+
+https://github.com/rosedblabs/rust-learning 
+
+
+## 部分模块文档说明：
+
+可以通过 <https://crates.io/> 搜索自己要学习库的具体文档（crates.io）与代码（Github）,有的库的维护比较好，有专门的网址来示例说明
 
 <https://docs.rs/nom/5.0.0/nom/macro.named.html>    <解析器组合库 nom模块>
 
