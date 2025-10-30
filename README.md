@@ -1,5 +1,7 @@
 # 网址汇总
 
+（有觉得好的学习资源可以通过PR进行提交，这边看到会进行合并）
+
 ## 学习资源
 
 https://course.rs/first-try/intro.html  <Rust语言圣经--中文>
